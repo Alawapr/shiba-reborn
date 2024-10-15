@@ -1,0 +1,11 @@
+pub mod action;
+pub mod animal;
+pub mod coinflip;
+pub mod fotd;
+pub mod magik;
+pub mod owoify;
+pub mod qotd;
+pub mod quote;
+pub mod skin;
+pub mod tod;
+pub mod wyr;
